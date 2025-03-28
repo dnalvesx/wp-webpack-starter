@@ -1,0 +1,8 @@
+@use "abstracts/variables" as *;
+@use "base/reset";
+@use "components/buttons";
+@use "layouts/header";
+
+body {
+  background-color: $main-color;
+}
